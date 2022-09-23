@@ -1,0 +1,10 @@
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.csproj.AssemblyReference.cache
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.Properties.Resources.resources
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.csproj.GenerateResource.cache
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.csproj.CoreCompileInputs.cache
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\bin\Debug\ConsultaCEPCorreiosSOAP.exe.config
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\bin\Debug\ConsultaCEPCorreiosSOAP.exe
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\bin\Debug\ConsultaCEPCorreiosSOAP.pdb
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.exe
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.pdb
+D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.frmConsultaCEP.resources
