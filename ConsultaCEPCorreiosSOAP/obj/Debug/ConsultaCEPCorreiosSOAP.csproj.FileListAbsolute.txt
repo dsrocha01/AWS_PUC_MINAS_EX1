@@ -8,3 +8,14 @@ D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\bin\Debug\Consu
 D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.exe
 D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.pdb
 D:\GDrive\PUC\ApisWebServices\Exercicio1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.frmConsultaCEP.resources
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\bin\Debug\ConsultaCEPCorreiosSOAP.exe.config
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\bin\Debug\ConsultaCEPCorreiosSOAP.exe
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\bin\Debug\ConsultaCEPCorreiosSOAP.pdb
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.frmConsultaCEP.resources
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.Properties.Resources.resources
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.exe
+C:\Users\pc\Documents\Aulas Pós\APIS e Web Services\AWS_PUC_MINAS_EX1\ConsultaCEPCorreiosSOAP\obj\Debug\ConsultaCEPCorreiosSOAP.pdb
